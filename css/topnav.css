@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#topnav{
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(188, 51, 188); */
+    background-color:lightcoral;
+    /* text-align: center; */
+    color: black;
+}
+#topicon{
+    height: 10%;
+    width: 100%;
+
+}
+.icon:hover{
+    color: white;
+}
+.icon{
+    margin-left: .5%;
+    /* float: left; */
+}
+marquee{
+    /* border: 2px solid yellow; */
+    width: 70%;
+    /* float: right; */
+}
+
+

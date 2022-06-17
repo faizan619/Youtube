@@ -1,0 +1,384 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background: radial-gradient(pink,yellow,orange,red) */
+}
+#bgimg h1{
+    text-align: center;
+}
+#bgimg img{
+    width: 100%;
+    height: 100%;
+}
+.subscribe-button{
+    text-align: center;
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#button1:hover{
+    background-color: red;
+    color: white;
+    transition: all .2s ease .01s;
+}
+#button1{
+    font-size: 1rem;
+    padding: .5rem;
+    border-radius: .5rem;
+    margin-left: 2%;
+    cursor: alias;
+    background-color: red;
+    color: white;
+}
+#button2:hover{
+    background-color: grey;
+    color: white;
+    transition: all .2s ease .01s;
+}
+#button2{
+    font-size: 1rem;
+    padding: .5rem;
+    border-radius: .5rem;
+    margin-left: 2%;
+    cursor: help;
+}
+#button3:hover{
+    background-color: gray;
+    color: white;
+}
+#button3{
+    font-size: 1rem;
+    padding: .5rem;
+    border-radius: .5rem;
+    margin-left: 2%;
+    cursor:pointer;
+}
+#button4:hover{
+    background-color: gray;
+    color: white;
+
+}
+#button4{
+    font-size: 1rem;
+    padding: .5rem;
+    border-radius: .5rem;
+    margin-left: 2%;
+    cursor: pointer;
+}
+/* section2 start here  */
+p{
+    display: inline-block;
+}
+#boxes2 img{
+    /* width: 1rem; */
+    
+}
+#boxes2{
+    /* padding: 2rem; */
+}
+.section2 h1{
+    text-align: center;
+    /* border: 2px solid red; */
+}
+.box{
+    /* border: 2px solid green; */
+    display: inline-block;
+    padding: 4rem;
+    margin: 1rem;
+    
+    border-radius: 1rem;
+
+}
+/* .box:hover{
+    background-color: violet;
+    color: darkblue;
+    transition: all .2s ease;
+} */
+.boxes{
+    /* display: flex; */
+    /* gap: 6rem; */
+    text-align: center;
+    padding: 1rem;
+    /* flex-direction; */
+    /* -ms-flex-align: center; */
+}
+
+
+#content1 img{
+    width:19rem;
+}
+#content1 p{
+    display: block;
+}
+#content1{
+    display: inline-block;
+    border: .1px solid red;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+
+#content2 img{
+    width:19rem;
+}
+#content2 p{
+    display: block;
+}
+#content2{
+    display: inline-block;
+    border: .1px solid red;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+
+
+#content3 img{
+    width:19rem;
+}
+#content3 p{
+    display: block;
+}
+#content1:hover{
+    /* box-shadow: inset 2px green; */
+}
+#content3{
+    display: inline-block;
+    border: .1px solid red;
+}
+
+.collection p{
+    text-align: center;
+}
+
+
+
+
+
+#boxes1{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* video part editing shuru  */
+
+.video-section{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    
+}
+.first-video a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    
+}
+.second-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.third-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.forth-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.fifth-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.sixth-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.seventh-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.eight-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.nine-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.ten-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.eleven-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.twelve-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.thirteen-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.fourteen-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.fifteen-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.sixteen-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.seventeen-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.eighteen-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.nineteen-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+.twenty-video a{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+
+
+
+
+
+
+
+/* video part editng finish  */
+
+
+.section2 h2{
+    text-align: center;
+    /* border: 2px solid red; */
+}
+
+
+
+
+
+
+
+/* footer designing start here  */
+.extralinks{
+    text-align: center;
+}
+.extralinks ul a:hover{
+    color: grey;
+}
+#anni:hover #aneeza img{
+    display: inline-block;
+}
+#aneeza img{
+    width: 10rem;
+    display: none;
+    position: absolute;
+    border-radius: 1rem;
+}
+.extralinks ul a{
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+
+
+
+
+footer{
+    /* height: 50vh; */
+    background-color: black;
+    color: white;
+}
+.description{
+    /* border: 2px solid red; */
+    text-align: center;
+    /* width: 50%; */
+}
+.description p{
+    /* border: 2px solid green; */
+    width: 70%;
+    padding: 1rem;
+    word-spacing: .5rem;
+    border-radius: 1rem;
+}
+h3{
+    display: inline-block;
+}
+
+
+
